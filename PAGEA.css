@@ -1,0 +1,33 @@
+#rightside{
+ 	float:right;
+ 	width:48%;
+}
+#leftside{
+	width:52%;
+}
+.clearfloat{
+	clear:both;
+}
+#navmenu{
+text-align:center;
+color:white;
+background-color:white;
+}
+.navitems{
+		list-style-type:disc;
+     	display:inline;
+		margin-right:5px;
+		padding:2px 5px;
+}
+.pagelink:link{
+	color:#0033cc;
+}
+.pagelink:visited{
+	color:#000000;
+}
+.pagelink:hover{
+	color:#EBE54B;
+}
+.pagelink:active{
+	color:#0026FF;
+}

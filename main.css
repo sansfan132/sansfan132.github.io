@@ -1,0 +1,103 @@
+
+p{
+	background:black;
+	color:white;
+	font-size:25px;
+	border-radius: 50%
+}
+h1{
+	font-size:40px;
+	background: #0033cc;
+}
+body{
+	background:black;
+	color:white;
+}
+.listitem{
+	background: black;
+	
+	font-size: 24px;
+}
+#button{
+	color:#0033cc;
+}
+h2{
+	background: black;
+	font-size: 24px;
+	border-radius:50%;
+}
+form{
+	background:black;
+	border: blue;
+	border-radius: 10px;
+}
+div{
+	background: black;
+}
+#megalovania{
+color:#0033cc;
+}
+.banner{
+	height:125px;
+	width:99%;
+	border:10px #0033cc;
+	background-color:#0033cc;
+	color:white;
+	text-align:center;
+	font-size: 85px;
+	border-radius: 3px;
+	margin-bottom: 20px;
+
+}
+#triviasection{
+	background-color:#0033cc;
+}
+#wrap-text{
+text-align: center;
+font-size: 4em;
+color:white;
+height: 500px;
+width: 450px;
+border: 5px #0033cc;
+padding: 50px;
+}
+
+#maintext{
+	background-color:#0033cc;
+}
+#navmenu{
+text-align:center;
+color:white;
+background-color:white;
+}
+.navitems{
+		list-style-type:disc;
+     	display:inline;
+		margin-right:5px;
+		padding:2px 5px;
+}
+.pagelink:link{
+	color:#0033cc;
+}
+.pagelink:visited{
+	color:#000000;
+}
+.pagelink:hover{
+	color:#EBE54B;
+}
+.pagelink:active{
+	color:#0026FF;
+}
+
+.floater{
+	float: right;
+	border:5px solid #000000;
+          	padding: 15px;
+}
+.refloat{
+	float:left;
+}
+
+.padsforvid{
+	margin:auto;
+}
